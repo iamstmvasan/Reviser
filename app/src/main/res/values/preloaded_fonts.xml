@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/arbutus</item>
+        <item>@font/atomic_age</item>
+        <item>@font/audiowide</item>
+        <item>@font/bangers</item>
+        <item>@font/chango</item>
+        <item>@font/faster_one</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/timmana</item>
+    </array>
+</resources>

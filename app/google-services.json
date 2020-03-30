@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101008359603",
+    "firebase_url": "https://reviser-92ef6.firebaseio.com",
+    "project_id": "reviser-92ef6",
+    "storage_bucket": "reviser-92ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101008359603:android:ec77dea55eedcc37fdf0c6",
+        "android_client_info": {
+          "package_name": "iamstmvasan.reviser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101008359603-o8rkmvo7lq6enqs4hvnq5532dak4t8tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iamstmvasan.reviser",
+            "certificate_hash": "0756c74044ebff6c0a5fec450fb8dd8b7a8499b9"
+          }
+        },
+        {
+          "client_id": "101008359603-u0k3q4ailkfs7doegqfaio8f6berpe37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2aH29qZAmcb820_p87KlGhubqkPWVP20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101008359603-u0k3q4ailkfs7doegqfaio8f6berpe37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
